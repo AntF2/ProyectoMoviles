@@ -1,0 +1,31 @@
+<div class="container">
+    <h1>LOGIN</h1>
+
+    <form (ngSubmit)="login(formulario)" #formulario="ngForm">
+        <label for="username" class="form-label">Email:</label>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">{{'📧'}}</span>
+            <input type="text" class="form-control" placeholder="Username" required name="email" [(ngModel)]="email" >
+        </div>
+
+        <label for="pwd" class="form-label">Password:</label>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">{{'🔑'}}</span>
+            <input type="password" class="form-control" placeholder="Password" required name="password" [(ngModel)]="password">
+        </div>
+
+        <label for="userType" class="form-label">Tipo de usuario:</label>
+        <div class="input-group mb-3">
+            <div class="input-group-text">
+                <input type="radio" class="form-check-input" placeholder="admin" required name="userType" [(ngModel)]="userType" value="admin">
+                <label for="admin">Administrador {{'👑'}}</label>
+            </div>
+            <div class="input-group-text">
+                <input type="radio" class="form-check-input" placeholder="user" required name="userType" [(ngModel)]="userType" value="user">
+                <label for="user">Usuario {{'👤'}}</label>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,145 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nombre": "Audífonos WH-CH520",
+            "imagen": "https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch520_Primary_image?$categorypdpnav$&fmt=png-alpha",
+            "precio": 40.00,
+            "marca": "Sony"
+        },
+        {
+            "id": 2,
+            "nombre": "Audífonos WH-XB910N",
+            "imagen": "https://www.sony.com.ec/image/dd18cf93606d238305a733d336c45537?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+            "precio": 41.99,
+            "marca": "Sony"
+        },
+        {
+            "id": 3,
+            "nombre": "Audífonos Aurum",
+            "imagen": "https://m.media-amazon.com/images/I/61F1Pckv63L.jpg",
+            "precio": 53.99,
+            "marca": "STF"
+        },
+        {
+            "id": 4,
+            "nombre": "Audífonos RZE-BT1000EK",
+            "imagen": "https://maxitec.vteximg.com.br/arquivos/ids/193902-1000-1000/maxitec-toshiba-audifonos-bluetooth-totalmente-inalambricos-con-control-de-voz-rze-bt1000ek-1.jpg?v=638304351994700000",
+            "precio": 25.00,
+            "marca": "Toshiba"
+        },
+        {
+            "id": 5,
+            "nombre": "Audífonos Wave Buds Truly",
+            "imagen": "https://gadgetstore.ec/wp-content/uploads/2023/09/2-1-600x600.jpg",
+            "precio": 45.00,
+            "marca": "JBL"
+        },
+        {
+            "id": 6,
+            "nombre": "Audífonos Air Pods Pro",
+            "imagen": "https://elbarbaro.ec/wp-content/uploads/2022/06/20853099_1-600x600.jpg",
+            "precio": 30.00,
+            "marca": "Apple"
+        },
+        {
+            "id": 7,
+            "nombre": "Cargador Samsung EP-T4510",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_856934-MLA52005465550_102022-O.webp",
+            "precio": 12.00,
+            "marca": "Samsung"
+        },
+        {
+            "id": 8,
+            "nombre": "Cargador Xiaomi Mi 65W",
+            "imagen": "https://mihome.ec/wp-content/uploads/2021/11/Gan_65W_03.jpg",
+            "precio": 10.00,
+            "marca": "Xiaomi"
+        },
+        {
+            "id": 9,
+            "nombre": "Cargador iPhone X100",
+            "imagen": "https://distribuidorae.com/cdn/shop/products/cargador-iphone-x100-pack-562264.jpg?v=1701590100",
+            "precio": 8.00,
+            "marca": "Apple"
+        },
+        {
+            "id": 10,
+            "nombre": "Celular Samsung GALAXY A54",
+            "imagen": "https://www.computron.com.ec/wp-content/uploads/2023/04/AM-A546E-VD.jpg",
+            "precio": 574.99,
+            "marca": "Samsung"
+        },
+        {
+            "id": 11,
+            "nombre": "Celular Realme C11",
+            "imagen": "https://www.todohogar.com/228521-medium_default/realme-celular-c11-ch30136-2gb-32gb-8mp-5000mah-65.jpg",
+            "precio": 379.99,
+            "marca": "Realme"
+        },
+        {
+            "id": 12,
+            "nombre": "Celular infinix note 40 pro",
+            "imagen": "https://www.computron.com.ec/wp-content/uploads/2024/03/INF-NOTE40PRO-GD.jpg",
+            "precio": 349.99,
+            "marca": "Infinix"
+        },
+        {
+            "id": 13,
+            "nombre": "Honor Magic 5 Lite",
+            "imagen": "https://www.celularquito.com/wp-content/uploads/2023/03/Honor-Magic-5-Lite-AZUL.jpg",
+            "precio": 239.99,
+            "marca": "Honor"
+        },
+        {
+            "id": 14,
+            "nombre": "Celular Apple iPhone 11",
+            "imagen": "https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc39bd684/images/large/26414415.jpg?sw=1200&sh=1200&sm=fit",
+            "precio": 799.99,
+            "marca": "Apple"
+        },
+        {
+            "id": 15,
+            "nombre": "Celular Itel A05S",
+            "imagen": "https://static.wixstatic.com/media/3ba396_13a3cc84d2ce4681a797caed0eff203b~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3ba396_13a3cc84d2ce4681a797caed0eff203b~mv2.png",
+            "precio": 299.99,
+            "marca": "Itel"
+        },
+        {
+            "id": 16,
+            "nombre": "Celular iPhone 14 Pro Max",
+            "imagen": "https://realplaza.vtexassets.com/arquivos/ids/34666183/image-0.jpg?v=638363790962100000",
+            "precio": 999.99,
+            "marca": "Apple"
+        },
+        {
+            "id": 17,
+            "nombre": "Celular Xiaomi Redmi 10",
+            "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/11883511-512-512/imageUrl_1.jpg",
+            "precio": 299.99,
+            "marca": "Xiaomi"
+        }, 
+        {
+            "id": 18,
+            "nombre": "Celular Samsung Galaxy M13",
+            "imagen": "https://www.sevenelectronics.com.ar/images/000880609436587091925Foto-Principal.jpg",
+            "precio": 349.99,
+            "marca": "Samsung"
+        },
+        {
+            "id": 19,
+            "nombre": "Celular VIVO Y35",
+            "imagen": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/c/e/celular-vivo-v2205-y35-128g-8g-dorado-amanecer-73937-default-1.jpg",
+            "precio": 349.99,
+            "marca": "Vivo"
+        },
+        {
+            "id": 20,
+            "nombre": "Celular Huawei P60 Pro",
+            "imagen": "https://www.radioshack.com.mx/store/medias/100143391.jpg-515ftw?context=bWFzdGVyfHJvb3R8MTIxNjIwfGltYWdlL2pwZWd8YUROaEwyZzJZUzg1TVRrNE9USTNOamMxTkRJeUx6RXdNREUwTXpNNU1TNXFjR2RmTlRFMVpuUjN8NjAwNjZlZTYwYWNhYzZkNTJhMTgzMTQ3MTNhNmYwNzM2NmViODE3NDdiYzg4MGZhYjVmMjA1ZTFkYjdkNGNhOA",
+            "precio": 599.99,
+            "marca": "Huawei"
+        }
+        
+    ]
+}
